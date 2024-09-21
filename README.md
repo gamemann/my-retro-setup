@@ -56,7 +56,7 @@ Firstly, make sure your MAYFLASH Dolphinbar's mode is set to 4.
 
 You'll then want to pair/sync your Wii remote(s) with your Dolphinbar by pressing the *Sync* button on the Dolphinbar and the red sync button on your Wii remote (typically located under the battery cover). You may also hit *1* and *2* on your Wii remote at the same time to pair. When the pair is successfuly, your Wii remote should be set to a specific player number indicated by the four square and blue lights on the bottom of the remote.
 
-Afterwards, you'll want to take a look at the README [here](./dolphin/README.md) and install some scripts, services, and configuration files I ended up needing on Linux/Debian 12. The script/service basically actively scans for BlueTooth devices on boot and the configuration file is related to `udev` rules for the Dolphinbar.
+Afterwards, you'll want to take a look at the README [here](https://github.com/gamemann/my-retro-setup/tree/main/dolphin) and install some scripts, services, and configuration files I ended up needing on Linux/Debian 12. The script/service basically actively scans for BlueTooth devices on boot and the configuration file is related to `udev` rules for the Dolphinbar.
 
 ### Dolphin
 The following settings should be set when launching games through Dolphin directly. After launching Dolphin, click the "Controllers" button in the top-right and use the following settings.
