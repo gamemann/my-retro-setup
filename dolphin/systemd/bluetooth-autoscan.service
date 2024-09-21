@@ -1,0 +1,12 @@
+[Unit]
+Description=BlueTooth Auto Scan
+After=network-online.target
+Requires=network-online.target
+
+[Service]
+WorkingDirectory=/opt
+ExecStart=/usr/bin/bash "/opt/bluetooth_autoscan.sh"
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
