@@ -10,4 +10,4 @@ Copy `scripts/bluetooth_autoscan.sh` to `/opt` and `systemd/bluetooth-autoscan.s
 ## UDEV Rules
 You'll most likely need to setup udev rules if you want to run Dolphin/RetroArch as non-root (recommended) and get Wii Remotes to work.
 
-Copy [`51-dolphin.rules`](./udev/51-dolphin.rules) to `/etc/udev/rules.d/`.
+Copy [`udev/51-dolphin.rules`](./udev/51-dolphin.rules) to `/etc/udev/rules.d/`.
