@@ -45,7 +45,7 @@ I've purchased a [MAYFLASH W010 Wireless Sensor Dolphinbar](https://www.amazon.c
 ![Dolphinbar Back](./images/dolphin-bar-back.jpg)
 
 ### Home Server
-I use one of my [home servers](https://github.com/gamemann/Home-Lab?tab=readme-ov-file#three-spykids) to stream emulated games through [Steam Remote Play](https://store.steampowered.com/remoteplay) and [Steam Link](https://store.steampowered.com/app/353380/Steam_Link/). This home server includes an RTX 2070 since it used to be my older gaming desktop which makes it perfect for game/moving streaming (it doesn't have typical server components, but it is used as a home server).
+I use one of my [home servers](https://github.com/gamemann/Home-Lab?tab=readme-ov-file#three-spykids) to stream emulated games through [Steam Remote Play](https://store.steampowered.com/remoteplay) and [Steam Link](https://store.steampowered.com/app/353380/Steam_Link/). This home server includes an RTX 2070 since it used to be my older gaming desktop which makes it perfect for game/movie streaming (it doesn't have typical server components, but it is used as a home server).
 
 I use a HDMI dummy plug from [here](https://www.amazon.com/dp/B07FB4VJL9) which allows me to launch games on a virtual monitor from my GPU that supports many resolutions such as 4K (60Hz) or 1920x1080 (120Hz). I personally use the *1920x1080* @ **120Hz** resolution!
 
